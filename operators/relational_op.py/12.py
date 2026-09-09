@@ -1,0 +1,9 @@
+"""
+12. Calculate simple interest: P=1000, R=5%, T=2 years.
+
+"""
+p=1000
+r=5
+t=2
+simpl_intr=(p*r*t)/100
+print("simple interest is=",simpl_intr)

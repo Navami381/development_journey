@@ -1,0 +1,6 @@
+print("take a pan")
+print("add 3 glass of water ")
+print("add some sugar")
+print("wait to boil the water")
+print("add coffee powder after boiling")
+print("tea ready")
