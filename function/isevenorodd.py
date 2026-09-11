@@ -2,11 +2,11 @@ def is_odd(number):
 
     if number%2!=0:
 
-        print("TRUE")
+       print( True)
 
     else:
 
-        print("FALSE")
+       print( False)
 
 is_odd(3)
 
